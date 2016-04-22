@@ -1,0 +1,10 @@
+{
+    "name": "open_bank_php",
+    "version": "0.0.1",
+    "dependencies": {
+        "fetch": "0.11.0",
+        "bootstrap": "v3.3.6",
+        "codemirror": "5.14.2"
+    },
+    "private": true
+}
